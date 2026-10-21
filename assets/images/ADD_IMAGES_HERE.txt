@@ -1,0 +1,2 @@
+Add your own images here using the filenames listed in ../README.md:
+profile.jpg, about-me.jpg, project-1.jpg, project-2.jpg, certificate-1.jpg through certificate-13.jpg.
