@@ -1,4 +1,4 @@
-# MY PORFOLIO — Original Design with Certificates Added
+# MY PORTFOLIO — Original Design with Certificates Added
 
 The original portfolio design and layout are preserved. The original design is preserved. The certificate section has been restored and expanded with the newly supplied Cisco and TESDA certificate images. Certificate images use contain fitting so the full certificate remains visible.
 
